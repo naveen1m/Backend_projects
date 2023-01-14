@@ -16,7 +16,7 @@ const updateTask = (req,res)=>{
     res.send('update the task')
 }
 const deleteTask = (req,res)=>{
-    res.send('delete task')
+    res.send('delete task added')
     // res.json({id:req.params.id})
 }
 
