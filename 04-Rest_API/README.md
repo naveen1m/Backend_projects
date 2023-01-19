@@ -1,1 +1,0 @@
-A REST API is created and checked CRUD operation using postman
